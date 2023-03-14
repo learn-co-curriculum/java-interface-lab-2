@@ -68,8 +68,8 @@ in order (i.e., complete Task One, then Task Two, then Task Three).
 Finish implementing the subclasses of the `Camera` interface. Follow the given
 instructions and tips:
 
-- A `DitigalCamera` takes 2000 photographs.
-- When taking a photograph with a `DitigalCamera`, it should return a `String`
+- A `DigitalCamera` takes 2000 photographs.
+- When taking a photograph with a `DigitalCamera`, it should return a `String`
   with the message "Taking a picture on my digital camera!"
 - A `PolaroidCamera` takes 10 photographs.
 - When taking a photograph with a `PolaroidCamera`, it should return a `String`
